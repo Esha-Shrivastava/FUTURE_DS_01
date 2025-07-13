@@ -28,13 +28,35 @@ Visualizations Included:
 - KPIs: Total Sales, Orders, Profit
 - Slicers for Region, Category, Segment
 
-Key Insights:
-*To be added after analysis.*
+Key Insights – Superstore Dashboard (Power BI)
+Sales Trend: Sales show strong variation over time, with certain periods significantly outperforming others.
+
+Top Categories:
+
+Technology leads in overall sales
+
+Followed by Furniture and Office Supplies
+
+Regional Performance:
+
+West and Central regions contribute the most to revenue
+
+Other regions show potential for focused growth
+
+KPI Summary:
+
+Total Sales: ₹283,020
+
+Total Profit: ₹34,740
+
+Total Unique Orders: 1,358
+
+Interactive Filters: Dashboard includes slicers for Region, Category, and Order Date to enable detailed, user-driven insights.
 
 Files Included:
 - Power BI Dashboard: `PowerBI_Dashboard.pbix`
 - Dataset: `SampleSuperstore.csv`
 
-## 🔗 LinkedIn Post:
-[Click here to view my Task 1 Showcase on LinkedIn](#) *(Link will be added after posting)*
+LinkedIn Post:
+
 
