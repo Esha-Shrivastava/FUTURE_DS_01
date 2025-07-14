@@ -57,6 +57,6 @@ v) Interactive Filters: Dashboard includes slicers for Region, Category, and Ord
 - Power BI Dashboard: `PowerBI_Dashboard.pbix`
 - Dataset: `SampleSuperstore.csv`
 
-> LinkedIn Post:
+> LinkedIn Post: https://www.linkedin.com/posts/esha-adhya-shrivastava-02728a313_futureinterns-powerbi-dataanalytics-activity-7350624313454018560-hv9T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE-Y058BUS8Eys8F6dTroshSgI-1ot_aC3g
 
 
